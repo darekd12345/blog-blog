@@ -1,7 +1,7 @@
 # blog-blog
-basic template for my blog which does note exist yet
+A basic template for my blog which does not exist yet.
 
-A simple blog layout which does not use bootstrap in any capacity. 
+It does not use bootstrap in any capacity. 
 
 Technologies used:
 * jQuery
