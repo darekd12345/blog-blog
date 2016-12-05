@@ -1,5 +1,5 @@
 # blog-blog
-A basic template for my blog which does not exist yet.
+A basic blog template
 
 It does not use bootstrap in any capacity. 
 
